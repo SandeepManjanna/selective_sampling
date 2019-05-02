@@ -1,2 +1,6 @@
-# selective_sampling
-Package for collecting water samples based on the suggestions by adaptive sampling
+# Dependencies
+- python-sympy
+- ros-<distribution>-geodesy
+- adaptive_sampling
+- gps_nav
+- heron_water
